@@ -93,8 +93,8 @@ HSE Eat X - приложение, которое позволяет студен
 
 - sequenceDiagram.png - диаграмма последовательности
 
-- stateDiagram - диаграмма состояний для заказа
+- stateDiagram.png - диаграмма состояний для заказа
 
-- activityDiagram - диаграмма деятельности
+- activityDiagram.png - диаграмма деятельности
 
 - classDiagram.png - диаграмма классов
